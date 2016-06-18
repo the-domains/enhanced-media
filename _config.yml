@@ -1,0 +1,14 @@
+layout_spectrum: 0.2444589480292052
+typography_spectrum: 0.4647092022933066
+color:
+  brandStrength: 0.7240181060042232
+  lightness: 0.10535206319764256
+  saturation: 0.5998277557082474
+  rhythmicContrast: 0.8376321841496974
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Enhanced Media
